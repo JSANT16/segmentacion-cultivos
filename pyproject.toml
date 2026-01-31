@@ -12,6 +12,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
     "numpy>=2.4.1",
+    "pandas>=3.0.0",
     "pillow>=12.1.0",
     "protobuf>=6.33.5",
     "qwen-vl-utils>=0.0.14",
@@ -21,4 +22,6 @@ dependencies = [
     "torchvision>=0.25.0",
     "tqdm>=4.67.1",
     "transformers>=5.0.0",
+    "seaborn>=0.13.0",
+    "scipy>=1.14.0",
 ]
