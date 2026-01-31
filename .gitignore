@@ -1,0 +1,7 @@
+# Ignorar TODOS los archivos del proyecto...
+/*
+# ... EXCEPTO:
+!.gitignore
+!pyproject.toml
+!/reports/
+!/reports/**
